@@ -4,5 +4,5 @@ Este projeto é uma biblioteca de jogos desenvolvida em React, com o uso de comp
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,js,nodejs,postgresql,git,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=reactjs&perline=14" />
 </div>
